@@ -1,0 +1,18 @@
+{
+  "name": "mailer",
+  "version": "1.0.1",
+  "description": "New Node module to send emails easily with Google Gmail credentials",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "email"
+  ],
+  "author": "Akindel",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "nodemailer": "^6.9.1"
+  }
+}
