@@ -1,6 +1,6 @@
 {
-  "name": "mailer",
-  "version": "1.0.1",
+  "name": "gmailer",
+  "version": "1.0.2",
   "description": "New Node module to send emails easily with Google Gmail credentials",
   "main": "index.js",
   "scripts": {

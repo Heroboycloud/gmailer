@@ -1,4 +1,4 @@
-# Mailer
+# GMailer
 
 New module i built to replace nodemailer, typing is hard...
 
