@@ -1,9 +1,12 @@
-# GMailer
+# g-mailer
 
 New module i built to replace nodemailer, typing is hard...
 
 So, in this stuff 
 
+Installation
+
+` npm install g-mailer`
 
 ```javascript
 	const mailer= require("mailer");
